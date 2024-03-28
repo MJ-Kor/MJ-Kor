@@ -17,10 +17,20 @@ Here are some ideas to get you started:
     
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Spring-007396?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
     <br>
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySQL&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/MyBatis-E6B91E?style=for-the-badge&logo=MyBatis&logoColor=black"/></a>&nbsp 
+    <br>
+    <img src="https://img.shields.io/badge/Html-ff7979?style=for-the-badge&logo=html5&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/CSS-ff7979?style=for-the-badge&logo=CSS3&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Bootstrap-f9ca24?style=for-the-badge&logo=BootStrap&logoColor=black"/></a>&nbsp 
+    <br>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Pytorch-eb4d4b?style=for-the-badge&logo=Pytorch&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Tensorflow-ffbe76?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>&nbsp 
     <br>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp 
 </p>
