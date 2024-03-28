@@ -39,7 +39,10 @@ Here are some ideas to get you started:
     
 <h3> 👨‍💻 PS Skill 👨‍💻</h3>
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalswn1584&cache=c">
+    <a href="https://solved.ac/profile/rlaalswn1584">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalswn1584&cache=c">
+    </a>
+        
 </p>
 <br>
 
