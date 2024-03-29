@@ -57,12 +57,13 @@ Here are some ideas to get you started:
 
 
 <h3>📊 Git Stats 📊</h3>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-Kor&layout=donut&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-Kor&layout=donut&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=40% />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MJ-Kor&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=61% />
+  <img src="https://github-readme-stats.vercel.app/api?username=MJ-Kor&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=59% />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -70,8 +71,9 @@ Here are some ideas to get you started:
 </a>
 <br>
 
+
+
 </div>
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalswn1584)](https://solved.ac/rlaalswn1584/) -->
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=rlaalswn1584)](https://github.com/ryo-ma/github-profile-trophy)
 
