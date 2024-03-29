@@ -17,22 +17,31 @@ Here are some ideas to get you started:
     
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Spring-007396?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp
     <br>
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySQL&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/MyBatis-E6B91E?style=for-the-badge&logo=MyBatis&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/MyBatis-1dd1a1?style=for-the-badge&logo=MyBatis&logoColor=black"/></a>&nbsp 
     <br>
-    <img src="https://img.shields.io/badge/Html-ff7979?style=for-the-badge&logo=html5&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/CSS-ff7979?style=for-the-badge&logo=CSS3&logoColor=black"/></a>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Bootstrap-f9ca24?style=for-the-badge&logo=BootStrap&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=black"/></a>&nbsp 
     <br>
     <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Pytorch-eb4d4b?style=for-the-badge&logo=Pytorch&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Tensorflow-ffbe76?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>&nbsp 
     <br>
-    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/notion-000000?&style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/mattermost-0058CC?&style=for-the-badge&logo=mattermost&logoColor=white"/></a>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
