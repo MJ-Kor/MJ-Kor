@@ -75,5 +75,3 @@ Here are some ideas to get you started:
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rlaalswn1584)](https://github.com/ryo-ma/github-profile-trophy)
-
