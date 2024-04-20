@@ -17,26 +17,26 @@ Here are some ideas to get you started:
     
 <h3>🛠 Tech Stacks 🛠</h3>
 
-| **비교적 능숙해요**                 | <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a> |
+| **비교적 능숙해요**                 | <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/MyBatis-1dd1a1?style=for-the-badge&logo=MyBatis&logoColor=black"/>|
 |:---:|---|
-| **공식 문서를 보고 기능을 구현해요**  | <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a> |
-| **사용해본 적 있어요**               | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a> |                                                                                
+| **공식 문서를 보고 기능을 구현해요**  |     <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/> |
+| **사용해본 적 있어요**               | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=Node.Js&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=MQTT&logoColor=white"/>|                                                                                
 <p>
-    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>&nbsp 
+<!--     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp
-    <br>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp -->
+<!--     <br>
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/MyBatis-1dd1a1?style=for-the-badge&logo=MyBatis&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/MyBatis-1dd1a1?style=for-the-badge&logo=MyBatis&logoColor=black"/></a>&nbsp  -->
     <br>
-    <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=black"/></a>&nbsp 
+<!--     <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=black"/></a>&nbsp 
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"/></a>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=black"/></a>&nbsp 
-    <br>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=black"/></a>&nbsp  -->
+<!--     <br>
     <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>&nbsp  -->
     <br>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp
     <br>
